@@ -4,7 +4,7 @@ using Xunit;
 namespace ChallengesWithTestsMark8.Tests
 {
     public class ChallengesSet01Tests
-    {
+    {   
         [Theory]
         [InlineData(1, 1, true)]
         [InlineData(10, 10, true)]
